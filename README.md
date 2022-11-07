@@ -1,8 +1,8 @@
-#Project-Praktikum
+# Project-Praktikum
 
-##Lab 2 Struktur Kondisi
+## Lab 2 Struktur Kondisi
 
-###Latihan 1 Menentukan Bilangan Terbesar
+### Latihan 1 Menentukan Bilangan Terbesar
 
 Dengan menggunakan statement IF bisa menentukan mana bilangan terbesar dari data yang kita input dengan menambahkan sytax max pada code,seperti gambar di bawah ini
 
@@ -12,7 +12,7 @@ Hasil setelah di run program bisa menentukan bilangan mana yang terbesar yang ki
 
 ![Gambar 2](Gambar/2.png)<br>
 
-###Latihan 2 Mengurutkan data dari variabel yang terkecil
+### Latihan 2 Mengurutkan data dari variabel yang terkecil
 
 Untuk mengurutkan variabel dari yang terkecil kita bisa menggunakan statement if dan elif pertama kita membuat nilai terkecilnya terlebih dahulu dan setelah itu kita membuat nilai tengah unutuk mengurutkan 3 variabel yang diminta, seperti gambar dibawah ini
 
@@ -22,9 +22,9 @@ Hasil setelah di run program bisa mengurutkan nilai terkecil, terbesar, dan nila
 
 ![Gambar 4](Gambar/4.png)<br>
 
-##Lab 3 Perulangan
+## Lab 3 Perulangan
 
-###Latihan 1 Melakukan perulangan bertingkat
+### Latihan 1 Melakukan perulangan bertingkat
 
 Membuat perulangan bertingkat kita bisa menggunakan syntax range untuk menentukan wilayah atau jarak yang di inginkan, seperti gambar dibawah ini
 
@@ -34,7 +34,7 @@ Hasil setelah di run programn perulangan akan dilakukan oleh program secara otom
 
 ![Gambar 6](Gambar/6.png)<br>
 
-###Latihan 2 Menampilkan bilangan acak yang lebih kecil dari 0,5
+### Latihan 2 Menampilkan bilangan acak yang lebih kecil dari 0,5
 
 Untuk menampilkan bilangan yang lebih kecil dari angka 0,5 dengan import libary random, seperti gambar di bawah ini dan untuk melakukan perulangan kita bisa menggunakan syntax while dan for, seperti gambar di bawah ini
 
